@@ -24,8 +24,10 @@
 * [Export High Resolution Images](https://www.youtube.com/watch?v=TEFJBeZmsCI) - Slide Cow
 * [PowerPoint triggers: Make something happen](https://www.brightcarbon.com/blog/powerpoint-triggers-make-something-happen/) - brightcarbon.com
 
-#### Tools
+### QR
 * [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
+
+### Colors
 * [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
 * [Color Name](https://www.color-name.com/) - Find color by name or hex
 
@@ -37,6 +39,8 @@
 ### Free Icons
 * [Icons8](https://icons8.com/) - icons8.com
 * [FlatIcon](https://www.flaticon.com/) - flaticon.com
+
+-----
 
 ### Exams (PowerPoint)
 * [MO-300: Microsoft PowerPoint (PowerPoint 2019)](https://www.microsoft.com/en-us/learning/exam-MO-300.aspx)
