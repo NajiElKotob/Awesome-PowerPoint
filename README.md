@@ -34,6 +34,9 @@
 * [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone
 
+### Free Icons
+* [Icons8](https://icons8.com/) - icons8.com
+* [FlatIcon](https://www.flaticon.com/) - flaticon.com
 
 ### Exams (PowerPoint)
 * [MO-300: Microsoft PowerPoint (PowerPoint 2019)](https://www.microsoft.com/en-us/learning/exam-MO-300.aspx)
