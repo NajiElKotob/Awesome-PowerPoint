@@ -24,6 +24,11 @@
 * [Export High Resolution Images](https://www.youtube.com/watch?v=TEFJBeZmsCI) - Slide Cow
 * [PowerPoint triggers: Make something happen](https://www.brightcarbon.com/blog/powerpoint-triggers-make-something-happen/) - brightcarbon.com
 
+#### Tools
+* [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
+* [Color Name](https://www.color-name.com/) - Find color by name or hex
+
+* 
 ### Exams (PowerPoint)
 * [MO-300: Microsoft PowerPoint (PowerPoint 2019)](https://www.microsoft.com/en-us/learning/exam-MO-300.aspx)
 * [77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills](https://www.microsoft.com/en-us/learning/exam-77-729.aspx)
