@@ -28,7 +28,12 @@
 * [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
 * [Color Name](https://www.color-name.com/) - Find color by name or hex
 
-* 
+### Free Stock Photos and Images 
+* [Unsplash](https://unsplash.com/) - Photos for everyone
+* [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock
+* [Freepik](https://www.freepik.com/) - Graphic resources for everyone
+
+
 ### Exams (PowerPoint)
 * [MO-300: Microsoft PowerPoint (PowerPoint 2019)](https://www.microsoft.com/en-us/learning/exam-MO-300.aspx)
 * [77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills](https://www.microsoft.com/en-us/learning/exam-77-729.aspx)
