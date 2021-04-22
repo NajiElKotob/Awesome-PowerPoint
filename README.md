@@ -26,6 +26,7 @@
 
 #### Tools
 * [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
+* [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
 * [Color Name](https://www.color-name.com/) - Find color by name or hex
 
 ### Free Stock Photos and Images 
