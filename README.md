@@ -40,6 +40,9 @@
 * [Icons8](https://icons8.com/) - icons8.com
 * [FlatIcon](https://www.flaticon.com/) - flaticon.com
 
+### Free music
+* [Bensound](https://www.bensound.com/) - bensound.com
+
 -----
 
 ### Exams (PowerPoint)
