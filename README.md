@@ -31,17 +31,23 @@
 * [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
 * [Color Name](https://www.color-name.com/) - Find color by name or hex
 
-### Free Stock Photos and Images 
+-----
+
+### Media
+#### Free Stock Photos and Images 
 * [Unsplash](https://unsplash.com/) - Photos for everyone
 * [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone
 
-### Free Icons
+#### Free Icons
 * [Icons8](https://icons8.com/) - icons8.com
 * [FlatIcon](https://www.flaticon.com/) - flaticon.com
 
 ### Free music
 * [Bensound](https://www.bensound.com/) - bensound.com
+
+#### Free Clip
+* [Pexels](https://www.pexels.com/videos/) - pexels.com
 
 -----
 
