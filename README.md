@@ -48,6 +48,8 @@
 
 #### Free Clip
 * [Pexels](https://www.pexels.com/videos/) - pexels.com
+* [Videvo](https://www.videvo.net/) - videvo.net
+
 
 -----
 
