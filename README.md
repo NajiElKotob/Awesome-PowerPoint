@@ -46,7 +46,7 @@
 #### Royalty Free Music
 * [Bensound](https://www.bensound.com/) - bensound.com
 * [SoundCloud](https://soundcloud.com/royaltyfreemusic-nocopyrightmusic) - soundcloud.com
-
+* [TakeTones](https://taketones.com/) - taketones.com
 
 #### Free Clip
 * [Pexels](https://www.pexels.com/videos/) - pexels.com
