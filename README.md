@@ -43,8 +43,10 @@
 * [Icons8](https://icons8.com/) - icons8.com
 * [FlatIcon](https://www.flaticon.com/) - flaticon.com
 
-### Free music
+#### Royalty Free Music
 * [Bensound](https://www.bensound.com/) - bensound.com
+* [SoundCloud](https://soundcloud.com/royaltyfreemusic-nocopyrightmusic) - soundcloud.com
+
 
 #### Free Clip
 * [Pexels](https://www.pexels.com/videos/) - pexels.com
