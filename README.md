@@ -28,6 +28,10 @@
 * [Export High Resolution Images](https://www.youtube.com/watch?v=TEFJBeZmsCI) - Slide Cow
 * [PowerPoint triggers: Make something happen](https://www.brightcarbon.com/blog/powerpoint-triggers-make-something-happen/) - brightcarbon.com
 
+### YouTube Channels :tv:
+* [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill)
+
+
 -----
 ### Tools
 #### QR
