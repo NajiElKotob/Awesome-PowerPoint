@@ -30,6 +30,7 @@
 
 ### YouTube Channels :tv:
 * [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill)
+    * [How to export high-resolution (high-dpi) slides from PowerPoint](https://docs.microsoft.com/en-us/office/troubleshoot/powerpoint/change-export-slide-resolution) 
 * [PowerPoint School](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
 
 -----
