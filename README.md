@@ -23,6 +23,8 @@
 #### Shortcuts
 * [Use keyboard shortcuts to deliver PowerPoint presentations](https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-deliver-powerpoint-presentations-1524ffce-bd2a-45f4-9a7f-f18b992b93a0) - Windows, macOS and Web
 
+#### Colors
+* [How to create color themes for PowerPoint presentations (Part IV)]()
 
 #### Tips and Tricks
 * [Export High Resolution Images](https://www.youtube.com/watch?v=TEFJBeZmsCI) - Slide Cow
