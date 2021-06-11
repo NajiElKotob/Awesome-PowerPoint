@@ -20,6 +20,7 @@
 * [Use the Morph transition in PowerPoint](https://support.office.com/en-us/article/use-the-morph-transition-in-powerpoint-8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 * [Rehearse timings for a slide show (Video)](https://support.office.com/en-us/article/video-rehearse-timings-for-a-slide-show-4fcac25a-d244-4047-b340-c3d683c3f549)
 * [Use Zoom for PowerPoint to bring your presentation to life](https://support.office.com/en-us/article/use-zoom-for-powerpoint-to-bring-your-presentation-to-life-9d6c58cd-2125-4d29-86b1-0097c7dc47d7?wt.mc_id=otc_tips)
+* [PowerPoint triggers: Make something happen](https://www.brightcarbon.com/blog/powerpoint-triggers-make-something-happen/) - brightcarbon.com
 
 #### Shortcuts
 * [Use keyboard shortcuts to deliver PowerPoint presentations](https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-deliver-powerpoint-presentations-1524ffce-bd2a-45f4-9a7f-f18b992b93a0) - Windows, macOS and Web
@@ -30,7 +31,6 @@
 
 #### Tips and Tricks
 * [Export High Resolution Images](https://www.youtube.com/watch?v=TEFJBeZmsCI) - Slide Cow
-* [PowerPoint triggers: Make something happen](https://www.brightcarbon.com/blog/powerpoint-triggers-make-something-happen/) - brightcarbon.com
 
 
 #### YouTube Channels :tv:
