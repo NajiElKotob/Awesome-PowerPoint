@@ -30,7 +30,7 @@
 
 ### YouTube Channels :tv:
 * [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill)
-
+* [PowerPoint School](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
 
 -----
 ### Tools
