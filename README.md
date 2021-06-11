@@ -24,8 +24,9 @@
 #### Shortcuts
 * [Use keyboard shortcuts to deliver PowerPoint presentations](https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-deliver-powerpoint-presentations-1524ffce-bd2a-45f4-9a7f-f18b992b93a0) - Windows, macOS and Web
 
-#### Colors
-* [How to create color themes for PowerPoint presentations (Part IV)]()
+#### Templates and Themes
+* [How to create color themes for PowerPoint presentations (Part IV)](https://presentitude.com/color-theory-part-iv) - presentitude.com
+* [Understand the difference between PowerPoint templates and themes](https://support.microsoft.com/en-us/office/understand-the-difference-between-powerpoint-templates-and-themes-e2408e10-e015-43b3-8b29-b99d128ae448)
 
 #### Tips and Tricks
 * [Export High Resolution Images](https://www.youtube.com/watch?v=TEFJBeZmsCI) - Slide Cow
