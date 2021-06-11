@@ -50,7 +50,7 @@
 
 -----
 
-### Media
+### Assets
 #### Free Stock Photos and Images 
 * [Unsplash](https://unsplash.com/) - Photos for everyone
 * [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock
@@ -69,6 +69,11 @@
 * [Pexels](https://www.pexels.com/videos/) - pexels.com
 * [Videvo](https://www.videvo.net/) - videvo.net
 * [Pixabay](https://pixabay.com/videos/) - pixabay.com
+
+#### Fonts
+* [Google Fonts](https://fonts.google.com/)
+* [dafont](https://www.dafont.com/)
+
 
 -----
 
