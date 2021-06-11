@@ -46,7 +46,14 @@
 
 #### Colors
 * [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
+
+-----
+
+### Rules and Guidelines
+* [The Rule of Thirds in 5 minutes](https://www.youtube.com/watch?v=HMjvvltQpmw)
 * [Color Name](https://www.color-name.com/) - Find color by name or hex
+* [Color Theory Basics (YouTube)](https://www.youtube.com/watch?v=L1CK9bE3H_s)
+
 
 -----
 
