@@ -86,8 +86,8 @@
 
 -----
 
-### Exams (PowerPoint)
+### Exams and Quizzes (PowerPoint)
 * [MO-300: Microsoft PowerPoint (PowerPoint 2019)](https://www.microsoft.com/en-us/learning/exam-MO-300.aspx)
 * [77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills](https://www.microsoft.com/en-us/learning/exam-77-729.aspx)
-
+* [GCF PowerPoint Quiz](https://edu.gcfglobal.org/en/powerpoint/powerpoint-quiz/1/)
 
