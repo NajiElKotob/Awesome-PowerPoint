@@ -40,6 +40,7 @@
 * [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill)
     * [How to export high-resolution (high-dpi) slides from PowerPoint](https://docs.microsoft.com/en-us/office/troubleshoot/powerpoint/change-export-slide-resolution) 
 * [PowerPoint School](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
+* [Creative Venus](https://www.youtube.com/c/CreativeVenus)
 * [30 Ultimate PowerPoint Tips and Tricks for 2020](https://www.youtube.com/watch?v=0GW4vT7d3nc)
 
 
