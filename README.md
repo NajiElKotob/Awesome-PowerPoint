@@ -43,6 +43,7 @@
 * [PowerPoint School](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
 * [Creative Venus](https://www.youtube.com/c/CreativeVenus)
 * [30 Ultimate PowerPoint Tips and Tricks for 2020](https://www.youtube.com/watch?v=0GW4vT7d3nc)
+* [How To Use PowerPoint 2019 (~3.5 hours)](https://www.youtube.com/watch?v=dEMR-mdzMH4) - Simon Sez IT
 
 
 -----
