@@ -58,8 +58,10 @@
 
 ### Rules and Guidelines
 * [The Rule of Thirds in 5 minutes](https://www.youtube.com/watch?v=HMjvvltQpmw)
-* [Color Name](https://www.color-name.com/) - Find color by name or hex
-* [Color Theory Basics (YouTube)](https://www.youtube.com/watch?v=L1CK9bE3H_s)
+* Colors
+  * [Color Name](https://www.color-name.com/) - Find color by name or hex
+  * [Color Theory Basics (YouTube)](https://www.youtube.com/watch?v=L1CK9bE3H_s)
+  * [All Brands (A-Z)](https://brandpalettes.com/all-brands/)
 
 
 -----
