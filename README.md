@@ -14,6 +14,7 @@
 * [Present slideshows](https://support.office.com/en-us/article/start-the-presentation-and-see-your-notes-in-presenter-view-4de90e28-487e-435c-9401-eb49a3801257?wt.mc_id=otc_powerpoint)
 * [Animation, video & audio](https://support.office.com/en-us/article/add-change-or-remove-transitions-between-slides-3f8244bf-f893-4efd-a7eb-3a4845c9c971?wt.mc_id=otc_powerpoint)
 * [Export a presentation](https://support.microsoft.com/en-us/office/export-a-presentation-6ee4272e-8f64-47f6-bd32-12fe50eef477)
+   * [Make an animated GIF from a slide show](https://support.microsoft.com/en-us/office/make-an-animated-gif-from-a-slide-show-a598753e-92de-4f1b-8393-714db4d334b4) 
 * [Share & co-author](https://support.office.com/en-us/article/add-change-hide-or-delete-comments-in-a-presentation-a8f071fa-6e5d-4c37-a025-1cf48a76eb38?wt.mc_id=otc_powerpoint)
 
 #### Advanced Training
