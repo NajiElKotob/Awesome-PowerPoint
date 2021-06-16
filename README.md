@@ -62,7 +62,8 @@
   * [Color Name](https://www.color-name.com/) - Find color by name or hex
   * [Color Theory Basics (YouTube)](https://www.youtube.com/watch?v=L1CK9bE3H_s)
   * [All Brands (A-Z)](https://brandpalettes.com/all-brands/)
-
+* Gestalt
+  * [The Gestalt Principles](https://www.youtube.com/watch?v=FryaH599ec0) - TipTut
 
 -----
 
