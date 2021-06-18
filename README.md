@@ -38,6 +38,7 @@
 
 #### YouTube Channels :tv:
 * [Learn Animations in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKzGZUW9EmeebcPaJzjEY70m) - Microsoft 365 
+* [Learn Slide Design in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKyMzwd-vWVSK0eYExddShBt) - Microsoft 365 
 * [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill)
     * [How to export high-resolution (high-dpi) slides from PowerPoint](https://docs.microsoft.com/en-us/office/troubleshoot/powerpoint/change-export-slide-resolution) 
 * [PowerPoint School](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
