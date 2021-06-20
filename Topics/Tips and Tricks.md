@@ -38,6 +38,6 @@
 1. Presenting a Slide Show Online
 1. Recording a Slide Show
 1. Setting Up a Self-Running Presentation
-1. Action Buttons
+1. [Action Buttons](https://support.microsoft.com/en-us/office/add-commands-to-your-presentation-with-action-buttons-7db2c0f8-5424-4780-93cb-8ac2b6b5f6ce)
 1. Set animation paths
 1. 3D models (Office 365)
