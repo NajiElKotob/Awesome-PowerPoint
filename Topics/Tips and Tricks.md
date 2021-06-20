@@ -1,7 +1,7 @@
 # Tips and Tricks
 
 1. Dummy Text/Filler Text (rand and lorem functions)
-1. Morph Transition
+1. [Morph Transition](https://support.microsoft.com/en-us/office/use-the-morph-transition-in-powerpoint-8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 1. Slide show (F5, Shift+F5 and ##)
 1. Summary Zoom
 1. Compress Media
