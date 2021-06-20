@@ -14,7 +14,7 @@
 1. File Metadata (View and Inspect)
 1. Match colors using the Eyedropper
 1. Shape Edit Points
-1. Smart Lookup
+1. [Smart Lookup](Get insights into what you're working on with Smart Lookup)
 1. Slide Show Loop
 1. Custom Shows
 1. Embedding fonts
