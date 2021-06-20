@@ -26,7 +26,7 @@
 14. Ungroup SmartArt
 15. Show Training (Help)
 16. Tell Me What You Want to Do
-17. Embed YouTube video
+17. Embed YouTube video (Video > Online Video)
 18. Import word document outlines
 19. Enhancing images
 20. Copy Path and Open File Location
