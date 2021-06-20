@@ -42,3 +42,4 @@
 1. Set animation paths
 1. 3D models (Office 365)
 1. [Neumorphic UI design](https://www.youtube.com/watch?v=rmDgBy7bjiU)
+1. Replace Font
