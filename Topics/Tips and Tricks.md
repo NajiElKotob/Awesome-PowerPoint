@@ -44,3 +44,4 @@
 1. [Neumorphic UI design](https://www.youtube.com/watch?v=rmDgBy7bjiU)
 1. Replace Font
 1. QR Code (Quick Response Code)
+1. Convert Text Box to SmartArt
