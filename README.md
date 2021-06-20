@@ -41,9 +41,10 @@
 #### YouTube Channels :tv:
 * [Learn Animations in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKzGZUW9EmeebcPaJzjEY70m) - Microsoft 365 
 * [Learn Slide Design in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKyMzwd-vWVSK0eYExddShBt) - Microsoft 365 
-* [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill)
+* [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill) :star:
     * [How to export high-resolution (high-dpi) slides from PowerPoint](https://docs.microsoft.com/en-us/office/troubleshoot/powerpoint/change-export-slide-resolution) 
 * [PowerPoint School](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
+* [PowerPoint Design One](https://www.youtube.com/channel/UCtm-Z1BMLPNk7xBazWlxgfA)
 * [Creative Venus](https://www.youtube.com/c/CreativeVenus)
 * [30 Ultimate PowerPoint Tips and Tricks for 2020](https://www.youtube.com/watch?v=0GW4vT7d3nc)
 * [How To Use PowerPoint 2019 (~3.5 hours)](https://www.youtube.com/watch?v=dEMR-mdzMH4) - Simon Sez IT
