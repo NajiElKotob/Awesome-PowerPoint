@@ -1,12 +1,11 @@
 # Tips and Tricks
 
-1. Dummy Text (rand and lorem functions)
+1. Dummy Text/Filler Text (rand and lorem functions)
 1. Morph Transition
 1. Slide show (F5, Shift+F5 and ##)
 1. Summary Zoom
 1. Compress Media
 1. Quick Access Toolbar
-1. Filler Text
 1. Chart Animation
 1. Hide background graphics (Format Background)
 1. Slide Show Tricks
