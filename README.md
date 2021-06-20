@@ -21,7 +21,9 @@
 * [Use the Morph transition in PowerPoint](https://support.office.com/en-us/article/use-the-morph-transition-in-powerpoint-8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 * [Rehearse timings for a slide show (Video)](https://support.office.com/en-us/article/video-rehearse-timings-for-a-slide-show-4fcac25a-d244-4047-b340-c3d683c3f549)
 * [Use Zoom for PowerPoint to bring your presentation to life](https://support.office.com/en-us/article/use-zoom-for-powerpoint-to-bring-your-presentation-to-life-9d6c58cd-2125-4d29-86b1-0097c7dc47d7?wt.mc_id=otc_tips)
-* [PowerPoint triggers: Make something happen](https://www.brightcarbon.com/blog/powerpoint-triggers-make-something-happen/) - brightcarbon.com
+* Trigger an animation effect
+    * [Make something happen](https://www.brightcarbon.com/blog/powerpoint-triggers-make-something-happen/) - brightcarbon.com
+    * [Trigger an animation effect](https://support.microsoft.com/en-us/office/video-trigger-an-animation-effect-09e0ddab-5be5-488e-a99d-719304572f95)
 * [Make a picture transparent](https://support.microsoft.com/en-us/topic/make-a-picture-transparent-ce96ac80-5afc-436c-ae3f-0c78009bf704?ui=en-us&rs=en-us&ad=us)
 
 
