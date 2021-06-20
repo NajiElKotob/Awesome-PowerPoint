@@ -27,7 +27,7 @@
 15. Show Training (Help)
 16. Tell Me What You Want to Do
 17. Embed YouTube video (Video > Online Video)
-18. Import word document outlines
+18. [Import word document outlines](https://support.microsoft.com/en-us/office/create-a-powerpoint-presentation-from-an-outline-f6294909-04e9-4020-b9a8-4587b112692c)
 19. Enhancing images
 20. Copy Path and Open File Location
 21. Protect, Inspect and Manage Presentation
