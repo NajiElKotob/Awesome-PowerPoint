@@ -6,7 +6,7 @@
 1. Slide show (F5, Shift+F5 and ##)
 1. Summary Zoom
 1. Compress Media
-1. Quick Access Toolbar
+1. [Quick Access Toolbar](https://support.microsoft.com/en-us/topic/customize-the-quick-access-toolbar-43fff1c9-ebc4-4963-bdbd-c2b6b0739e52) (Add/Remove, Items order, Position)
 1. Chart Animation
 1. Hide background graphics (Format Background)
 1. Slide Show Tricks
