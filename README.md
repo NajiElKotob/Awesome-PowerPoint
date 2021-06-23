@@ -49,7 +49,7 @@
 * [30 Ultimate PowerPoint Tips and Tricks for 2020](https://www.youtube.com/watch?v=0GW4vT7d3nc)
 * [How To Use PowerPoint 2019 (~3.5 hours)](https://www.youtube.com/watch?v=dEMR-mdzMH4) - Simon Sez IT
 * [Less Than 10% Of Designers Know This!](https://www.youtube.com/watch?v=dGYCn9qYjUQ) – Design Principles Ep1
-
+* [The Principles of Design](https://www.youtube.com/watch?v=ZK86XQ1iFVs)
 -----
 ### Tools
 #### QR
