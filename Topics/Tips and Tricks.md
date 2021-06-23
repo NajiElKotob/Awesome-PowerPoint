@@ -48,3 +48,4 @@
 1. QR Code (Quick Response Code)
 1. Convert Text Box to SmartArt
 1. Show/Hide all objects (Selection Pane)
+1. [Quick Access Toolbar](https://support.microsoft.com/en-us/topic/customize-the-quick-access-toolbar-43fff1c9-ebc4-4963-bdbd-c2b6b0739e52)
