@@ -13,3 +13,6 @@
 1. [genially](https://www.genial.ly/) - genial.ly
 1. [infogram](https://infogram.com/) - infogram.com
 1. [easil](https://easil.com/) - easil.com
+1. [snappa](https://snappa.com/) - snappa.com
+1. [befunky](https://www.befunky.com/) - befunky.com
+1. [Adobe Spark](https://www.adobe.com/products/spark.html) - adobe.com
