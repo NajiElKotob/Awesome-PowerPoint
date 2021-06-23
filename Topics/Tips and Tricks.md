@@ -25,7 +25,7 @@
 1. Quick Duplicate (Click-Drag + CTRL, CTRL + D)
 1. Ink Equation
 1. Alt-Shift Ordering
-1. Ungroup SmartArt
+1. Ungroup SmartArt (CTRL+SHIFT+G)
 1. Show Training (Help)
 1. Tell Me What You Want to Do
 1. [Embed YouTube video (Video > Online Video)](https://support.microsoft.com/en-us/office/insert-a-video-from-youtube-or-another-site-8340ec69-4cee-4fe1-ab96-4849154bc6db)
