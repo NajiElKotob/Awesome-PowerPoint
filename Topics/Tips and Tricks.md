@@ -18,7 +18,7 @@
 1. [Smart Lookup](https://support.microsoft.com/en-us/topic/get-insights-into-what-you-re-working-on-with-smart-lookup-debf2083-5ac0-4739-8667-ae2467bec044) - Get insights into what you're working on with Smart Lookup
 1. Slide Show Loop
 1. Custom Shows
-1. Embedding fonts
+1. [Embedding fonts](https://support.microsoft.com/en-us/office/embed-fonts-in-documents-or-presentations-cb3982aa-ea76-4323-b008-86670f222dbc)
 1. Remove Background
 1. Quick Alignment
 1. Quick Duplicate (Click-Drag + CTRL, CTRL + D)
