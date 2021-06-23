@@ -16,6 +16,7 @@
 1. Match colors using the Eyedropper
 1. [Shape Edit Points](https://support.microsoft.com/en-us/office/draw-or-edit-a-freeform-shape-44d7bb9d-c05c-4e1c-a486-e35fc322299b)
 1. [Smart Lookup](https://support.microsoft.com/en-us/topic/get-insights-into-what-you-re-working-on-with-smart-lookup-debf2083-5ac0-4739-8667-ae2467bec044) - Get insights into what you're working on with Smart Lookup
+1. [Lock Drawing Mode](https://support.microsoft.com/en-us/office/draw-or-delete-a-line-or-connector-f304ef73-9514-450b-9bb9-28c6057020f2)
 1. Slide Show Loop
 1. Custom Shows
 1. [Embedding fonts](https://support.microsoft.com/en-us/office/embed-fonts-in-documents-or-presentations-cb3982aa-ea76-4323-b008-86670f222dbc)
