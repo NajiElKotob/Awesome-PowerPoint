@@ -7,7 +7,7 @@
 1. Summary Zoom
 1. Compress Media
 1. [Quick Access Toolbar](https://support.microsoft.com/en-us/topic/customize-the-quick-access-toolbar-43fff1c9-ebc4-4963-bdbd-c2b6b0739e52) (Add/Remove, Items order, Position)
-1. Chart Animation
+1. [Chart Animation](https://support.microsoft.com/en-us/office/video-animate-charts-and-smartart-0d713521-23c2-46aa-9824-2811297baad7)
 1. Hide background graphics (Format Background)
 1. Slide Show Tricks
 1. Gridlines & Guides
