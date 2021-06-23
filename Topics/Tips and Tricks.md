@@ -14,7 +14,7 @@
 1. Recover Files (Info > Manage Presentation)
 1. File Metadata (View and Inspect)
 1. Match colors using the Eyedropper
-1. Shape Edit Points
+1. [Shape Edit Points](https://support.microsoft.com/en-us/office/draw-or-edit-a-freeform-shape-44d7bb9d-c05c-4e1c-a486-e35fc322299b)
 1. [Smart Lookup](https://support.microsoft.com/en-us/topic/get-insights-into-what-you-re-working-on-with-smart-lookup-debf2083-5ac0-4739-8667-ae2467bec044) - Get insights into what you're working on with Smart Lookup
 1. Slide Show Loop
 1. Custom Shows
