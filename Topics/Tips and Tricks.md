@@ -47,3 +47,4 @@
 1. Replace Font
 1. QR Code (Quick Response Code)
 1. Convert Text Box to SmartArt
+1. Show/Hide all objects (Selection Pane)
