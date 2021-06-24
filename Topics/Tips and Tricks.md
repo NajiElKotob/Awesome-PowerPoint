@@ -22,7 +22,7 @@
 1. [Embedding fonts](https://support.microsoft.com/en-us/office/embed-fonts-in-documents-or-presentations-cb3982aa-ea76-4323-b008-86670f222dbc)
 1. Remove Background
 1. Quick Alignment
-1. Quick Duplicate (Click-Drag + CTRL, CTRL + D)
+1. Quick Duplicate (Drag + CTRL, Drag + CTRL + SHIFT, CTRL + D)
 1. Ink Equation
 1. Alt-Shift Ordering
 1. Ungroup SmartArt (CTRL+SHIFT+G)
