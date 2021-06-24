@@ -45,6 +45,7 @@
 1. 3D models (Office 365)
 1. [Neumorphic UI design](https://www.youtube.com/watch?v=rmDgBy7bjiU)
 1. Replace Font
+1. Filled Map
 1. QR Code (Quick Response Code)
 1. Convert Text Box to SmartArt
 1. Show/Hide all objects (Selection Pane)
@@ -52,3 +53,4 @@
 1. [Change the color of hyperlink text throughout a presentation](https://support.microsoft.com/en-us/office/change-the-color-of-hyperlink-text-throughout-a-presentation-77c55b2d-3b2e-4ec4-924c-3165972e1bfa)
 1. Stock Images
 1. [Design Ideas](https://support.microsoft.com/en-us/office/create-professional-slide-layouts-with-powerpoint-designer-53c77d7b-dc40-45c2-b684-81415eac0617)
+1. Translate
