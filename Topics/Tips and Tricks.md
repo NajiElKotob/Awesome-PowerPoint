@@ -23,6 +23,7 @@
 1. Remove Background
 1. Quick Alignment
 1. Quick Duplicate (Drag + CTRL, Drag + CTRL + SHIFT, CTRL + D)
+1. Click, Double-click, Triple-click (None, Word, Paragraph)
 1. Ink Equation
 1. Alt-Shift Ordering
 1. Ungroup SmartArt (CTRL+SHIFT+G)
