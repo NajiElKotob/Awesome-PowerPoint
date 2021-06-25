@@ -38,7 +38,7 @@
 * [Export High Resolution Images](https://www.youtube.com/watch?v=TEFJBeZmsCI) - Slide Cow
 
 
-#### YouTube Channels :tv:
+#### YouTube Channels and Videos :tv:
 * [Learn Animations in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKzGZUW9EmeebcPaJzjEY70m) - Microsoft 365 
 * [Learn Slide Design in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKyMzwd-vWVSK0eYExddShBt) - Microsoft 365 
 * [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill) :star:
@@ -50,6 +50,10 @@
 * [How To Use PowerPoint 2019 (~3.5 hours)](https://www.youtube.com/watch?v=dEMR-mdzMH4) - Simon Sez IT
 * [Less Than 10% Of Designers Know This!](https://www.youtube.com/watch?v=dGYCn9qYjUQ) – Design Principles Ep1
 * [The Principles of Design](https://www.youtube.com/watch?v=ZK86XQ1iFVs)
+* [Making FAMOUS Graphic Designs Better!! (Before & After Design)](https://www.youtube.com/watch?v=Tm25IxJQPWM) - Satori Graphics
+
+
+
 -----
 ### Tools
 #### QR
