@@ -34,7 +34,7 @@
 1. Enhancing images
 1. Copy Path and Open File Location
 1. Protect, Inspect and Manage Presentation
-1. Export to Video
+1. [Export to Video](https://support.microsoft.com/en-us/office/save-a-presentation-as-a-video%E2%80%8B-in-powerpoint-ba919059-523d-40a8-b99c-08d18996c09d)
 1. Packaging Presentations for CD
 1. Screen Recording
 1. Apply a motion path to text or an object
