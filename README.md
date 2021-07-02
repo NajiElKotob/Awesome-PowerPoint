@@ -64,7 +64,7 @@
 * [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
 * [Color contrast](https://kb.iu.edu/d/atgh) - kb.iu.edu
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) - webaim.org
-
+* [Color Scheme](https://www.shutterstock.com/blog/color-scheme-definitions-types-examples) - shutterstock.com
 
 -----
 
