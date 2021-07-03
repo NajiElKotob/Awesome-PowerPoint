@@ -1,6 +1,8 @@
 # Infographics
 {WIP, Stay Tuned}
 
+## Infographics Gallery
+* [Cool Infographics Gallery](https://www.pinterest.com/rtkrum/cool-infographics-gallery/) - Randy Krum
 
 -----
 ## Infographic Tools 
