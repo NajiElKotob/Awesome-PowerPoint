@@ -5,6 +5,8 @@
 * [Cool Infographics Gallery](https://www.pinterest.com/rtkrum/cool-infographics-gallery/) - Randy Krum (Pinterest)
 * [1000+ Infographics, Posters, Flyers, Brochures & More](https://venngage.com/gallery/) - venngage.com
 * [29 Infographic Statistics You Need to Know in 2021](https://visme.co/blog/infographic-statistics/) - visme.co
+* [40 of the best infographics to inspire you](https://www.canva.com/learn/best-infographics/) - canva.com
+
 
 -----
 ## Infographic Tools 
@@ -20,3 +22,4 @@
 1. [snappa](https://snappa.com/) - snappa.com
 1. [befunky](https://www.befunky.com/) - befunky.com
 1. [Adobe Spark](https://www.adobe.com/products/spark.html) - adobe.com
+
