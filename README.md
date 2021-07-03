@@ -62,20 +62,24 @@
 
 #### Colors
 * [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
-* [Color contrast](https://kb.iu.edu/d/atgh) - kb.iu.edu
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) - webaim.org
-* [Color Scheme](https://www.shutterstock.com/blog/color-scheme-definitions-types-examples) - shutterstock.com
+
 
 -----
 
 ### Rules and Guidelines
+#### The Rule of Thirds
 * [The Rule of Thirds in 5 minutes](https://www.youtube.com/watch?v=HMjvvltQpmw)
-* Colors
-  * [Color Name](https://www.color-name.com/) - Find color by name or hex
-  * [Color Theory Basics (YouTube)](https://www.youtube.com/watch?v=L1CK9bE3H_s)
-  * [All Brands (A-Z)](https://brandpalettes.com/all-brands/)
-* Gestalt
-  * [The Gestalt Principles](https://www.youtube.com/watch?v=FryaH599ec0) - TipTut
+#### Colors
+* [Color Name](https://www.color-name.com/) - Find color by name or hex
+* [Color Scheme](https://www.shutterstock.com/blog/color-scheme-definitions-types-examples) - shutterstock.com
+* [Color Theory Basics (YouTube)](https://www.youtube.com/watch?v=L1CK9bE3H_s)
+* [All Brands (A-Z)](https://brandpalettes.com/all-brands/)
+#### Gestalt
+* [The Gestalt Principles](https://www.youtube.com/watch?v=FryaH599ec0) - TipTut
+#### Electronic Accessibility
+* [WCAG 2.0 guidelines](https://www.ucop.edu/electronic-accessibility/standards-and-best-practices/levels-of-conformance-a-aa-aaa.html) are categorized into three levels of conformance in order to meet the needs of different groups and different situations: A (lowest), AA (mid range), and AAA (highest)[...] The WCAG document does not recommend that Level AAA conformance be required as a general policy for entire sites because it is not possible to satisfy all Level AAA success criteria for some content. 
+
 
 -----
 
