@@ -83,7 +83,8 @@
 * [Color Scheme](https://www.shutterstock.com/blog/color-scheme-definitions-types-examples) - shutterstock.com
 * [Color Theory Basics (YouTube)](https://www.youtube.com/watch?v=L1CK9bE3H_s)
 * [All Brands (A-Z)](https://brandpalettes.com/all-brands/)
-* [Color meanings and symbolism](https://www.canva.com/colors/color-meanings/) - canva.com
+* [Colors (Canva)](https://www.canva.com/colors/) - canva.com
+    * [Color meanings and symbolism](https://www.canva.com/colors/color-meanings/)
 #### Gestalt
 * [The Gestalt Principles](https://www.youtube.com/watch?v=FryaH599ec0) - TipTut
 * [Gestalt Principles (Interaction Design Foundation)](https://www.interaction-design.org/literature/topics/gestalt-principles) - interaction-design.org
