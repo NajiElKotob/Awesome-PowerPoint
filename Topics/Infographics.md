@@ -23,3 +23,7 @@
 1. [befunky](https://www.befunky.com/) - befunky.com
 1. [Adobe Spark](https://www.adobe.com/products/spark.html) - adobe.com
 
+-----
+
+## Articles
+* [What is a pictogram?](https://venngage.com/blog/pictogram/) A pictogram is one of the simplest (and most popular) forms of data visualization out there. Also known as “pictographs”, “icon charts”, “picture charts”, and “pictorial unit charts”, pictograms use a series of repeated icons to visualize simple data. The icons are arranged in a single line or a grid, with each icon representing a certain number of units (usually 1, 10, or 100).
