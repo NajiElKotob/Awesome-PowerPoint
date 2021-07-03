@@ -11,7 +11,10 @@
 
 ## Best Infographics
 * [The Great War](https://www.behance.net/gallery/33773376/Great-War-Infographic)
-
+* Minard
+    * A particular example of the easy storytelling genre are maps, and a particularly famous example is Charles Minard’s visualization of Napoleon’s Russian campaign in 1812/13. While not immediately obvious if you haven’t seen it before, this is really a map, with the Polish border in the west and Moscow in the east. The width of the ribbon shows the number of men in Napoleon’s army: he starts out with 422,000, loses a lot of them before he even reaches Moscow, where he arrives with 100,000; turns around and makes it back with all of 10,000 men. [Storytelling: Minard vs. Nightingale](https://eagereyes.org/journalism/storytelling-minard-vs-nightingale)   
+    * [Touching Minard](https://medium.com/nightingale/touching-minard-6398274e07ef) 
+    * [The Greatest Ever Infographic (YouTube)](https://www.youtube.com/watch?v=3T7jMcstxY0) - Numberphile
 -----
 ## Infographic Tools 
 1. [visme](https://visme.co/) - visme.co
