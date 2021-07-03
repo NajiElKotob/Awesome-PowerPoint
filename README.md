@@ -67,7 +67,7 @@
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - adobe.com
 * [Color wheel (Canva)](https://www.canva.com/colors/color-wheel/) - canva.com
 #### Contrast
-* [Contrast Ratio](https://contrast-ratio.com/)
+* [Contrast Ratio](https://contrast-ratio.com/) - WCAG 2.1 requires a contrast ratio of at least 3:1 for graphics and user interface components
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) - webaim.org
 #### Converters
 * UnitConverters
