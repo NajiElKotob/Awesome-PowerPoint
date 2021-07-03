@@ -7,6 +7,8 @@
 * [29 Infographic Statistics You Need to Know in 2021](https://visme.co/blog/infographic-statistics/) - visme.co
 * [40 of the best infographics to inspire you](https://www.canva.com/learn/best-infographics/) - canva.com
 
+## Best Infographics
+* [The Great War](https://www.behance.net/gallery/33773376/Great-War-Infographic)
 
 -----
 ## Infographic Tools 
