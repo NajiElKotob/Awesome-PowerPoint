@@ -2,7 +2,9 @@
 {WIP, Stay Tuned}
 
 ## Infographics Gallery
-* [Cool Infographics Gallery](https://www.pinterest.com/rtkrum/cool-infographics-gallery/) - Randy Krum
+* [Cool Infographics Gallery](https://www.pinterest.com/rtkrum/cool-infographics-gallery/) - Randy Krum (Pinterest)
+* [1000+ Infographics, Posters, Flyers, Brochures & More](https://venngage.com/gallery/) - venngage.com
+* [29 Infographic Statistics You Need to Know in 2021](https://visme.co/blog/infographic-statistics/) - visme.co
 
 -----
 ## Infographic Tools 
