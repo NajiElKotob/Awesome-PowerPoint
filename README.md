@@ -61,14 +61,14 @@
 ### Tools
 #### QR
 * [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
-
-#### Colors
+#### Color Blindness
 * [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
+#### Color Wheel
+* [Adobe Color](https://color.adobe.com/create/color-wheel) - adobe.com
+* [Color wheel (Canva)](https://www.canva.com/colors/color-wheel/) - canva.com
+#### Contrast
+* [Contrast Ratio](https://contrast-ratio.com/)
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) - webaim.org
-* Color Wheel
-    * [Adobe Color](https://color.adobe.com/create/color-wheel) - adobe.com
-    * [Color wheel (Canva)](https://www.canva.com/colors/color-wheel/) - canva.com
-
 #### Converters
 * UnitConverters
     * [Convert Pixel (X) to Inch](https://www.unitconverters.net/typography/pixel-x-to-inch.htm) 
