@@ -88,7 +88,7 @@
 * [Gestalt Principles (Interaction Design Foundation)](https://www.interaction-design.org/literature/topics/gestalt-principles) - interaction-design.org
 #### Electronic Accessibility
 * [WCAG 2.0 guidelines](https://www.ucop.edu/electronic-accessibility/standards-and-best-practices/levels-of-conformance-a-aa-aaa.html) are categorized into three levels of conformance in order to meet the needs of different groups and different situations: A (lowest), AA (mid range), and AAA (highest)[...] The WCAG document does not recommend that Level AAA conformance be required as a general policy for entire sites because it is not possible to satisfy all Level AAA success criteria for some content. 
-
+* [What’s new in WCAG 2.1? (~1 hour)](https://www.youtube.com/watch?v=f5qv7AnTUHk) 
 
 -----
 
