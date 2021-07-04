@@ -53,7 +53,7 @@
 1. [Quick Access Toolbar](https://support.microsoft.com/en-us/topic/customize-the-quick-access-toolbar-43fff1c9-ebc4-4963-bdbd-c2b6b0739e52)
 1. [Change the color of hyperlink text throughout a presentation](https://support.microsoft.com/en-us/office/change-the-color-of-hyperlink-text-throughout-a-presentation-77c55b2d-3b2e-4ec4-924c-3165972e1bfa)
 1. SVG to Shape e.g. [flaticon.com](https://www.flaticon.com)
-1. Stock Images
+1. [Stock Images](https://support.microsoft.com/en-us/office/insert-images-icons-and-more-in-microsoft-365-c7b78cdf-2503-4993-8664-851085c30fce)
 1. [Design Ideas](https://support.microsoft.com/en-us/office/create-professional-slide-layouts-with-powerpoint-designer-53c77d7b-dc40-45c2-b684-81415eac0617)
 1. Translate
 1. [Crop to Shape](https://support.microsoft.com/en-us/office/video-crop-a-picture-to-fit-a-shape-d9ed38c2-1006-4245-9eec-9dd4f722986d)
