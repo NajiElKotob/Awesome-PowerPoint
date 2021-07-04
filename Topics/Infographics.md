@@ -26,6 +26,10 @@
 1. [Adobe Spark](https://www.adobe.com/products/spark.html) - adobe.com
 
 -----
+## Templates
+* [Envato](https://elements.envato.com/presentation-templates/infographic/compatible-with-powerpoint) - envato.com
+
+-----
 
 ## Guide
 * [Infographic Design - Complete Guide for Non-Designers (2021)](https://visme.co/blog/infographic-design-guide/#infographic-design-tips-and-tricks-to-help-you-get-started) - visme.co
