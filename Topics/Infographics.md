@@ -27,9 +27,10 @@
 
 -----
 ## Templates
+* [SlideModel](https://slidemodel.com/?s=infographic) - slidemodel.com
+* [SlideGeeks](https://search.slidegeeks.com/search?w=infographic) - slidegeeks.com
 * [Envato](https://elements.envato.com/presentation-templates/infographic/compatible-with-powerpoint) - envato.com
 * [Infograpify](https://infograpify.com/collections/infographics) - infograpify.com
-* [SlideModel](https://slidemodel.com/?s=infographic) - slidemodel.com
 
 -----
 
