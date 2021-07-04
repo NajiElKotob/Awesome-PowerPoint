@@ -46,6 +46,7 @@
 * [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill) :star:
     * [How to export high-resolution (high-dpi) slides from PowerPoint](https://docs.microsoft.com/en-us/office/troubleshoot/powerpoint/change-export-slide-resolution) 
 * [PowerPoint School](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
+    * [Animated PowerPoint Timeline Slide Design Tutorial](https://www.youtube.com/watch?v=InyqaOFRwKw) 
 * [PowerPoint Design One](https://www.youtube.com/channel/UCtm-Z1BMLPNk7xBazWlxgfA)
 * [Creative Venus](https://www.youtube.com/c/CreativeVenus)
 * [BrightCarbon](https://www.youtube.com/channel/UCyipGP3aTqfaiEhbfo4oTxg)
