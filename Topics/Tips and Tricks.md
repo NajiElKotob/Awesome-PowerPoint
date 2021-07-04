@@ -10,7 +10,7 @@
 1. [Chart Animation](https://support.microsoft.com/en-us/office/video-animate-charts-and-smartart-0d713521-23c2-46aa-9824-2811297baad7)
 1. Hide background graphics (Format Background)
 1. Slide Show Tricks
-1. Gridlines & Guides
+1. [Gridlines & Guides](https://support.microsoft.com/en-us/topic/work-with-gridlines-and-use-snap-to-grid-in-powerpoint-84ed7394-5b37-4326-b13d-60fbc845e096)
 1. Recover Files (Info > Manage Presentation)
 1. File Metadata (View and Inspect)
 1. Match colors using the Eyedropper
