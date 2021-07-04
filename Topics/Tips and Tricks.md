@@ -38,7 +38,7 @@
 1. Packaging Presentations for CD
 1. Screen Recording
 1. Apply a motion path to text or an object
-1. Presenting a Slide Show Online
+1. [Presenting a Slide Show Online](https://support.microsoft.com/en-us/office/broadcast-your-powerpoint-presentation-online-to-a-remote-audience-25330108-518e-44be-a281-e3d85f784fee)
 1. Recording a Slide Show
 1. Setting Up a Self-Running Presentation
 1. [Action Buttons](https://support.microsoft.com/en-us/office/add-commands-to-your-presentation-with-action-buttons-7db2c0f8-5424-4780-93cb-8ac2b6b5f6ce)
