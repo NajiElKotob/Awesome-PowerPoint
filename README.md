@@ -27,7 +27,7 @@
     * [Make something happen](https://www.brightcarbon.com/blog/powerpoint-triggers-make-something-happen/) - brightcarbon.com
     * [Trigger an animation effect](https://support.microsoft.com/en-us/office/video-trigger-an-animation-effect-09e0ddab-5be5-488e-a99d-719304572f95)
 * [Make a picture transparent](https://support.microsoft.com/en-us/topic/make-a-picture-transparent-ce96ac80-5afc-436c-ae3f-0c78009bf704?ui=en-us&rs=en-us&ad=us)
-
+* [Grid & Guides :tv:](https://www.youtube.com/watch?v=87uoUhvZbuU)
 
 #### Shortcuts
 * [Use keyboard shortcuts to deliver PowerPoint presentations](https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-deliver-powerpoint-presentations-1524ffce-bd2a-45f4-9a7f-f18b992b93a0) - Windows, macOS and Web
