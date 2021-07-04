@@ -52,7 +52,6 @@
 * [PowerPoint Design One](https://www.youtube.com/channel/UCtm-Z1BMLPNk7xBazWlxgfA)
 * [Creative Venus](https://www.youtube.com/c/CreativeVenus)
 * [BrightCarbon](https://www.youtube.com/channel/UCyipGP3aTqfaiEhbfo4oTxg)
-
 ##### Vidoes
 * [30 Ultimate PowerPoint Tips and Tricks for 2020](https://www.youtube.com/watch?v=0GW4vT7d3nc)
 * [How To Use PowerPoint 2019 (~3.5 hours)](https://www.youtube.com/watch?v=dEMR-mdzMH4) - Simon Sez IT
