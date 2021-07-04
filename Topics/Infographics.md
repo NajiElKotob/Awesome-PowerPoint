@@ -28,6 +28,8 @@
 -----
 ## Templates
 * [Envato](https://elements.envato.com/presentation-templates/infographic/compatible-with-powerpoint) - envato.com
+* [Infograpify](https://infograpify.com/collections/infographics) - infograpify.com
+
 
 -----
 
