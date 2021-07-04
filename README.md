@@ -41,8 +41,10 @@
 
 
 #### YouTube Channels and Videos :tv:
-* [Learn Animations in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKzGZUW9EmeebcPaJzjEY70m) - Microsoft 365 
-* [Learn Slide Design in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKyMzwd-vWVSK0eYExddShBt) - Microsoft 365 
+##### Channels
+* [Microsoft 365](https://www.youtube.com/c/microsoft365)
+    * [Learn Animations in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKzGZUW9EmeebcPaJzjEY70m)
+    * [Learn Slide Design in PowerPoint with Microsoft Creators](https://www.youtube.com/playlist?list=PLXPr7gfUMmKyMzwd-vWVSK0eYExddShBt)
 * [One Skill PowerPoint Tutorials](https://www.youtube.com/user/1OneSkill) :star:
     * [How to export high-resolution (high-dpi) slides from PowerPoint](https://docs.microsoft.com/en-us/office/troubleshoot/powerpoint/change-export-slide-resolution) 
 * [PowerPoint School](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
@@ -50,13 +52,13 @@
 * [PowerPoint Design One](https://www.youtube.com/channel/UCtm-Z1BMLPNk7xBazWlxgfA)
 * [Creative Venus](https://www.youtube.com/c/CreativeVenus)
 * [BrightCarbon](https://www.youtube.com/channel/UCyipGP3aTqfaiEhbfo4oTxg)
+
+##### Vidoes
 * [30 Ultimate PowerPoint Tips and Tricks for 2020](https://www.youtube.com/watch?v=0GW4vT7d3nc)
 * [How To Use PowerPoint 2019 (~3.5 hours)](https://www.youtube.com/watch?v=dEMR-mdzMH4) - Simon Sez IT
 * [Less Than 10% Of Designers Know This!](https://www.youtube.com/watch?v=dGYCn9qYjUQ) – Design Principles Ep1
 * [The Principles of Design](https://www.youtube.com/watch?v=ZK86XQ1iFVs)
 * [Making FAMOUS Graphic Designs Better!! (Before & After Design)](https://www.youtube.com/watch?v=Tm25IxJQPWM) - Satori Graphics
-
-
 
 -----
 ### Tools
