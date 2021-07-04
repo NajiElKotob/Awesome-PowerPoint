@@ -20,7 +20,7 @@
 1. Slide Show Loop
 1. Custom Shows
 1. [Embedding fonts](https://support.microsoft.com/en-us/office/embed-fonts-in-documents-or-presentations-cb3982aa-ea76-4323-b008-86670f222dbc)
-1. Remove Background
+1. [Remove Background](https://support.microsoft.com/en-us/topic/remove-the-background-of-a-picture-c0819a62-6844-4190-8d67-6fb1713a12bf)
 1. [Quick Alignment](https://support.microsoft.com/en-us/office/align-and-arrange-objects-on-a-slide-5f961535-a2ae-4914-a24a-94c669903ae3)
 1. Quick Duplicate (Drag + CTRL, Drag + CTRL + SHIFT, CTRL + D)
 1. Click, Double-click, Triple-click (None, Word, Paragraph)
