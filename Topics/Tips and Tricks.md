@@ -46,7 +46,7 @@
 1. 3D models (Office 365)
 1. [Neumorphic UI design](https://www.youtube.com/watch?v=rmDgBy7bjiU)
 1. Replace Font
-1. Filled Map
+1. Filled Map (Chart > Map)
 1. QR Code (Quick Response Code)
 1. Convert Text Box to SmartArt
 1. Show/Hide all objects (Selection Pane)
