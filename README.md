@@ -61,7 +61,7 @@
 * [Less Than 10% Of Designers Know This!](https://www.youtube.com/watch?v=dGYCn9qYjUQ) – Design Principles Ep1
 * [The Principles of Design](https://www.youtube.com/watch?v=ZK86XQ1iFVs)
 * [Making FAMOUS Graphic Designs Better!! (Before & After Design)](https://www.youtube.com/watch?v=Tm25IxJQPWM) - Satori Graphics
-* [31 Creative Presentation Ideas to Delight Your Audience](https://www.youtube.com/watch?v=BuB7IhWZnJs)
+* [31 Creative Presentation Ideas to Delight Your Audience](https://www.youtube.com/watch?v=BuB7IhWZnJs) - Visme
 
 
 -----
