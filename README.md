@@ -114,6 +114,7 @@
 #### Free Icons
 * [Icons8](https://icons8.com/) - icons8.com
 * [FlatIcon](https://www.flaticon.com/) - flaticon.com
+* [Lordicon](https://lordicon.com/) - lordicon.com | Animated Icons
 
 #### Royalty Free Music
 * [Bensound](https://www.bensound.com/) - bensound.com
