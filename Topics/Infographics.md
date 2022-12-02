@@ -53,3 +53,6 @@
 
 ## Papers
 * [Statistical data presentation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5453888/) - A table is best suited for representing individual information and represents both quantitative and qualitative information. A graph is a very effective visual tool as it displays data at a glance, facilitates comparison, and can reveal trends and relationships within the data such as changes over time, frequency distribution, and correlation or relative share of a whole. Text, tables, and graphs for data and information presentation are very powerful communication tools. They can make an article easy to understand, attract and sustain the interest of readers, and efficiently present large amounts of complex information. 
+
+## YouTube 📺
+* [The BEST ‘Before & After’ Designs Of 2021 So Far!](https://www.youtube.com/watch?v=k2DWClcoHFI) - Satori Graphics
