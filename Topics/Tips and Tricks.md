@@ -59,3 +59,4 @@
 1. Translate
 1. [Crop to Shape](https://support.microsoft.com/en-us/office/video-crop-a-picture-to-fit-a-shape-d9ed38c2-1006-4245-9eec-9dd4f722986d)
 1. Copy Guides lines (CTRL + DD)
+1. Used by slide(s)... (Slide Master/Tooltip)
