@@ -25,7 +25,7 @@
 1. Quick Duplicate (Drag + CTRL, Drag + CTRL + SHIFT, CTRL + D)
 1. Click, Double-click, Triple-click (None, Word, Paragraph)
 1. Ink Equation
-1. Alt-Shift Ordering
+1. (CTRL+SHIFT | SHIFT) + Arrows (Resizing)
 1. Ungroup SmartArt (CTRL+SHIFT+G)
 1. Show Training (Help)
 1. Tell Me What You Want to Do
