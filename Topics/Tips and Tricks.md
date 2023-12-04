@@ -4,7 +4,7 @@
 1. [Morph Transition](https://support.microsoft.com/en-us/office/use-the-morph-transition-in-powerpoint-8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 1. [!!ShapeForMorph](https://support.microsoft.com/en-us/office/morph-transition-tips-and-tricks-bc7f48ff-f152-4ee8-9081-d3121788024f)
 1. Slide show (F5, Shift+F5 and ##)
-1. Summary Zoom
+1. [Summary Zoom](https://support.microsoft.com/en-us/office/use-zoom-for-powerpoint-to-bring-your-presentation-to-life-9d6c58cd-2125-4d29-86b1-0097c7dc47d7)
 1. Compress Media
 1. [Quick Access Toolbar](https://support.microsoft.com/en-us/topic/customize-the-quick-access-toolbar-43fff1c9-ebc4-4963-bdbd-c2b6b0739e52) (Add/Remove, Items order, Position)
 1. [Chart Animation](https://support.microsoft.com/en-us/office/video-animate-charts-and-smartart-0d713521-23c2-46aa-9824-2811297baad7)
