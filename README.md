@@ -1,7 +1,7 @@
 # Awesome PowerPoint 🧡
 
 * [Official Website](https://products.office.com/en-us/powerpoint) - Microsoft
-* [GCF](https://edu.gcfglobal.org/en/topics/powerpoint/) - Free online learning at GCF Global
+* [GCF](https://edu.gcfglobal.org/en/topics/powerpoint/) - Free online learning at GCF Global ⭐
 * [Tips and Tricks](https://github.com/NajiElKotob/Awesome-PowerPoint/blob/main/Topics/Tips%20and%20Tricks.md) ⤴
 * [Infographics](https://github.com/NajiElKotob/Awesome-PowerPoint/blob/main/Topics/Infographics.md) ⤴
 
