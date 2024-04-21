@@ -134,6 +134,7 @@
 -----
 
 ### Exams and Quizzes (PowerPoint)
+* [Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)](https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/?practice-assessment-type=certification)
 * [MO-300: Microsoft PowerPoint (PowerPoint 2019)](https://www.microsoft.com/en-us/learning/exam-MO-300.aspx)
 * [77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills](https://www.microsoft.com/en-us/learning/exam-77-729.aspx)
 * [GCF PowerPoint Quiz](https://edu.gcfglobal.org/en/powerpoint/powerpoint-quiz/1/)
