@@ -28,6 +28,7 @@
     * [Trigger an animation effect](https://support.microsoft.com/en-us/office/video-trigger-an-animation-effect-09e0ddab-5be5-488e-a99d-719304572f95)
 * [Make a picture transparent](https://support.microsoft.com/en-us/topic/make-a-picture-transparent-ce96ac80-5afc-436c-ae3f-0c78009bf704?ui=en-us&rs=en-us&ad=us)
 * [Grid & Guides :tv:](https://www.youtube.com/watch?v=87uoUhvZbuU)
+* [Presenting with cameo](https://support.microsoft.com/en-us/office/presenting-with-cameo-83abdb2e-948a-47d0-932d-86815ae1317a)
 ##### Troubleshooting
 * [Update or remove a broken link to an external file](https://support.microsoft.com/en-us/office/update-or-remove-a-broken-link-to-an-external-file-29485589-816e-4841-81b7-ff90ae5a2cc4)
 
