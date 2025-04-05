@@ -61,3 +61,4 @@
 1. Copy Guides lines (CTRL + DD)
 1. Used by slide(s)... (Slide Master/Tooltip)
 1. Insert graphic in original size (Size and Position > Reset) 
+1. Hide your Presentation (W, B)
